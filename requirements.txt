@@ -19,3 +19,4 @@ chromadb
 llama-index-embeddings-huggingface
 llama-index-embeddings-azure-openai
 llama-index-embeddings-ollama
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
