@@ -19,3 +19,4 @@ chromadb
 llama-index-embeddings-huggingface
 llama-index-embeddings-azure-openai
 llama-index-embeddings-ollama
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
